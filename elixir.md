@@ -1,4 +1,4 @@
-Types in elixir
+Types in elixir  
 1. integer
 2. float = 1.0
 3. boolean
